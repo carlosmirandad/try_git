@@ -8,12 +8,15 @@ Behold here is a markdown file and one like you havent seen before. It will disp
 * with another item
 * and with yet another item
 
-I know that was impressive...
-Why dont we create...
+I know that was impressive.
+
+Now, why dont we create...
 
 ##Another section
-Just when you thought that this couldnt be more inovative
-Here goes another list
+Just when you thought that this couldnt be more inovative...
+here goes another list:
 * but with only one item
+
 I know, inconceivable!
+
 OK lets see how this looks...
